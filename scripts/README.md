@@ -1,3 +1,5 @@
+To produce parquet file using Coffea Framework, you can follow below steps.
+
 1. Put the `photon_to_parquet_EB_EE.py` to your folder that coffea framework installed in.
 
 2. Activate higgs-dna environment.
